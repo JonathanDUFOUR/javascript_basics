@@ -1,0 +1,33 @@
+#apple_shelf
+{
+	width: 210px;
+	height: 42px;
+
+	margin-left: 2%;
+	margin-top: 1%;
+
+	border-radius: 10px;
+
+	background-color: lightcoral;
+
+	text-align: center;
+
+	padding-top: 10px;
+}
+
+#orange_shelf
+{
+	width: 210px;
+	height: 42px;
+
+	margin-left: 2%;
+	margin-top: 1%;
+
+	border-radius: 10px;
+
+	background-color: sandybrown;
+
+	text-align: center;
+
+	padding-top: 10px;
+}
